@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  View2ViewController.h
 //  My First App
 //
 //  Created by Angelo Antonio Salatino on 16/05/2014.
@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface View2ViewController : UIViewController
+{
+    
+}
 
+-(IBAction)Button:(id)sender;
 
 @end
